@@ -5,6 +5,7 @@ host="hosts"
 """replace above address by real host file address"""
 
 website_list=["www.facebook.com","facebook.com","www.youtube.com","youtube.com"]
+#Enter the websites you want to block in above list
 redirect="127.0.0.1"
 
 while True:
